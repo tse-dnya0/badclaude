@@ -1,6 +1,6 @@
 {
   "name": "badclaude",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Whip Claude into shape",
   "license": "MIT",
   "main": "main.js",
